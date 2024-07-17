@@ -3,7 +3,7 @@ name: Postman Test and Allure Report
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   run_tests:
